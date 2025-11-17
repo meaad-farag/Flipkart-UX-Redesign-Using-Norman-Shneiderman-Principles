@@ -20,7 +20,7 @@ Each violation was documented with **Before/After** screenshots to show the impr
 
 ---
 
-## 🟦 Shneiderman’s Eight Golden Rules — Redesign
+##  Shneiderman’s Eight Golden Rules — Redesign
 
 ### 1. Consistency
 - Menus on the homepage differ from menus on other pages in form, labels, and icon positions.  
